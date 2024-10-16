@@ -1,0 +1,17 @@
+asgiref==3.8.1 
+click==8.1.7 
+colorama==0.4.6 
+DAWG-Python==0.7.2 
+Django==5.1.1 
+django-extensions==3.2.3 
+docopt==0.6.2 
+gunicorn 
+joblib==1.4.2 
+logger==1.4 
+postgres 
+regex==2024.9.11 
+sqlparse==0.5.1 
+tqdm==4.66.5 
+tzdata==2024.2 
+sklearn 
+regex

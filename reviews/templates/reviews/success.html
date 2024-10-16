@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Review Submitted</title>
+</head>
+<body>
+    <h1>Your Review</h1>
+    <p>{{ review.text }}</p>
+    <p>Assigned Rating: {{ review.rating }}</p>
+    <a href="{% url 'submit_review' %}">Submit another review</a>
+</body>
+</html>
